@@ -1,4 +1,3 @@
-# update homebrew env
 # update homebrew repositories
 # update
 
