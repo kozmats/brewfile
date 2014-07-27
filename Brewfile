@@ -16,7 +16,7 @@ install binutils
 install brew-cask
 install cmigemo
 install coreutils
-install curl-ca-bundle
+install fcrackzip
 install findutils
 install fontconfig
 install fontforge
@@ -30,7 +30,9 @@ install jpeg
 install libevent
 install libpng
 install libtiff
+install libtool
 install lv
+install mariadb
 install markdown
 install mercurial
 install nkf
@@ -42,8 +44,12 @@ install rbenv
 install readline
 install ricty
 install ruby-build
+install scala
+install sl
 install tig
 install tmux
+install typesafe-activator
+install unrar
 install vim
 install w3m
 install wget
@@ -56,13 +62,17 @@ install zsh-syntax-highlighting
 cask install alfred
 cask install bettertouchtool
 cask install dropbox
+cask install evernote
 cask install firefox
 cask install google-chrome
 cask install google-drive
+cask install iterm2-beta
 cask install karabiner
 cask install kobito
+cask install macs-fan-control
 cask install parallels
 cask install sequel-pro
+cask install sophos-anti-virus-home-edition
 cask install sourcetree
 cask install vagrant
 cask install xquartz
